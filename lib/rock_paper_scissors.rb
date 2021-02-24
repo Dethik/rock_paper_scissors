@@ -1,12 +1,18 @@
 class RPS
-  def wins?(arg1, arg2)
-    if arg1 == 'rock' && arg2 == 'scissors'
+  def wins?(user, comp)
+    if user == 'rock' && comp == 'scissors'
       true
-    elsif arg1 == 'scissors' && arg2 == 'paper'
+    elsif user == 'scissors' && comp == 'paper'
       true
-    elsif arg1 == 'paper' && arg2 == 'rock'
+    elsif user == 'paper' && comp == 'rock'
       true
-    elsif arg1 == arg2
+    # elsif user == 'scissors' && comp == 'rock'
+    #   false
+    # elsif user == 'paper' && comp == 'scissors'
+    #   false
+    # elsif user == 'rock' && comp == 'paper'
+    #   false
+    elsif user == comp
       "tie"
     # else
     #   false
