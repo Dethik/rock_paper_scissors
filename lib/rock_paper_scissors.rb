@@ -4,6 +4,7 @@ class RPS
     options = ['rock', 'paper', 'scissors']
     user = gets.chomp.downcase
     comp = options.sample
+    print "You threw #{user}."
     print "The computer threw #{comp}."
 
     if user == 'rock' && comp == 'scissors'
