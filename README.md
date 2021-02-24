@@ -92,3 +92,5 @@ Licensed under [MIT license](https://mit-license.org/)
 
 ## Contact Information
 _Andy Lawson: [Email](alawson89@gmail.com)_
+_Austin Landis [Email](austinlandiscode@gmail.com)_
+_Zack Rutledge [Email](Thorgrim88@gmail.com)_
