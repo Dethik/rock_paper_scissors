@@ -2,12 +2,12 @@
 #### *Co-Created By: Andrew Lawson*
 #### *Co-Created By: Zack Rutledge*
 #### *Co-Created By: Austin Landis*
-#### *Rock, Paper, Scissors With TDD*
+#### *Terminal-Based Rock, Paper, Scissors With TDD*
 
 * * *
 
 ## Description
-This is an application for learning TDD with ruby while attending Epicodus coding school. This app Might be un finished and does not represent my class mates or my own coding knowledge.
+This is an application for learning TDD with ruby while attending Epicodus coding school. Users can play rock, paper, scissors within the terminal by running `lib/rock_paper_scissors.rb` in the command line.
 * * *
 
 ## Technologies used
@@ -21,7 +21,7 @@ This is an application for learning TDD with ruby while attending Epicodus codin
 ### Want to see this webpage now?
 ###### See this web page in action on [Github Pages]({repo})
 
-* Go to ( https://github.com/andyL89/scrabble_score ).
+* Go to ( https://github.com/andyL89/rock_paper_scissors ).
 
 *  Navigate to the code button on the github website.
 
@@ -37,7 +37,7 @@ This is an application for learning TDD with ruby while attending Epicodus codin
 
 - Once you have chosen your desired directory use the command.
 ```bash
-git clone https://github.com/andyL89/scrabble_score.git
+git clone https://github.com/andyL89/rock_paper_scissors.git
 ```
 
 <div
