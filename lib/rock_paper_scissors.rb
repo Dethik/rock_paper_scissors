@@ -14,8 +14,8 @@ class RPS
     #   false
     elsif user == comp
       "tie"
-    # else
-    #   false
+    else
+      false
     end
   end
 end
