@@ -6,8 +6,8 @@ class RPS
       true
     elsif arg1 == 'paper' && arg2 == 'rock'
       true
-    # elsif arg1 == arg2
-    #   "tie"
+    elsif arg1 == arg2
+      "tie"
     # else
     #   false
     end
