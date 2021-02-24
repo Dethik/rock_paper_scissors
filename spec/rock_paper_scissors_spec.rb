@@ -15,4 +15,8 @@ describe('RPS#game') do
     game = RPS.new()
     expect(game.wins?("paper", "rock")).to(eq(true))
   end
+  it("returns tie if arg1 is the object and arg2 is the argument") do
+    game = RPS.new()
+    expect(game.wins?("paper", "paper")).to(eq('tie'))
+  end
 end
