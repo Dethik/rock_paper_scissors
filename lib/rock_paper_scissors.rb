@@ -21,5 +21,8 @@ class RPS
 end
 
 puts "Let's play rock, paper, scissors! "
+puts "What do you throw?"
 game = RPS.new()
 print game.wins?
+puts
+puts
